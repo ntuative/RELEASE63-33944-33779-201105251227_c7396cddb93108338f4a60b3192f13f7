@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout name="memenu" width="200" height="260" version="0.1" uid="376274E8-8D84-DEB8-2227-739AF274BD23">
+  <window>
+    <border x="0" y="0" width="200" height="260" params="131104" style="1" name="main_content" tags="MAIN_CONTENT"/>
+  </window>
+</layout>
